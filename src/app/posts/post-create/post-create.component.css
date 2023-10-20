@@ -1,0 +1,15 @@
+/* In styles.css */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+mat-card {
+  /* width: 80%; */
+  margin-top: 1rem;
+}
+
+mat-form-field, textarea{
+  width: 100%;
+  height: auto;
+}
+/* button{
+  color: yellow;
+} */
